@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anasayub80
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning NodeJs
 - 📫 Reach me on IG @anasayub80
 
 <!---
